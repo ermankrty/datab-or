@@ -13,3 +13,4 @@ The document module is based on the [Spring Data MongoDB](https://github.com/Spr
 Added a fallback for missing records
 Simplified the filtering logic
 Fixed handling for empty results
+Improved handling for duplicate records
