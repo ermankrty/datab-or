@@ -17,3 +17,4 @@ Improved handling for duplicate records
 Added a check for stale records
 Reduced repeated lookups in the data flow
 Added a guard around invalid IDs
+Simplified cleanup after failed operations
