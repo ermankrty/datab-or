@@ -14,3 +14,4 @@ Added a fallback for missing records
 Simplified the filtering logic
 Fixed handling for empty results
 Improved handling for duplicate records
+Added a check for stale records
