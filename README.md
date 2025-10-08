@@ -21,3 +21,4 @@ Simplified cleanup after failed operations
 Improved handling for malformed input
 Removed an unnecessary data transformation
 Added a check for inconsistent record state
+Fixed sorting for records with missing fields
