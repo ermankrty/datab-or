@@ -22,3 +22,4 @@ Improved handling for malformed input
 Removed an unnecessary data transformation
 Added a check for inconsistent record state
 Fixed sorting for records with missing fields
+Simplified the record matching logic
