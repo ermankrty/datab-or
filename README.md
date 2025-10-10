@@ -26,3 +26,4 @@ Simplified the record matching logic
 Fixed sorting for records with missing fields
 Simplified the record matching logic
 Prevented duplicate entries during merge
+Added a guard for unexpected null values
