@@ -28,3 +28,4 @@ Simplified the record matching logic
 Prevented duplicate entries during merge
 Added a guard for unexpected null values
 Reduced repeated checks during record updates
+Improved handling when a record lookup returns no match
