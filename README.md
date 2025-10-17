@@ -30,3 +30,4 @@ Added a guard for unexpected null values
 Reduced repeated checks during record updates
 Improved handling when a record lookup returns no match
 Simplified the update path for existing entries
+Fixed ordering when multiple records share the same key
