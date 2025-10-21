@@ -32,3 +32,4 @@ Improved handling when a record lookup returns no match
 Simplified the update path for existing entries
 Fixed ordering when multiple records share the same key
 Improved how empty results are handled
+Removed an unnecessary retry path
