@@ -34,3 +34,4 @@ Fixed ordering when multiple records share the same key
 Improved how empty results are handled
 Removed an unnecessary retry path
 Cached repeated lookups to avoid extra work
+Fixed a mismatch when normalizing record keys
