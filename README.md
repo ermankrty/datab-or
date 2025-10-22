@@ -36,3 +36,4 @@ Removed an unnecessary retry path
 Cached repeated lookups to avoid extra work
 Fixed a mismatch when normalizing record keys
 Moved shared comparison logic into one helper
+Added coverage for records with missing metadata
