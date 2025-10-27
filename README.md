@@ -40,3 +40,4 @@ Added coverage for records with missing metadata
 Fixed an edge case when updating existing records
 Added a check before processing duplicate entries
 Simplified how record IDs are normalized
+Fixed filtering when optional fields are empty
