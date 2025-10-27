@@ -42,3 +42,4 @@ Added a check before processing duplicate entries
 Simplified how record IDs are normalized
 Fixed filtering when optional fields are empty
 Removed an unused branch from the import flow
+Improved error output for failed record imports
