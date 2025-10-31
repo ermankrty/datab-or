@@ -48,3 +48,4 @@ Added a safer fallback for missing values
 Streamlined the record comparison path
 Added a guard for invalid record transitions
 Reduced unnecessary work during repeated lookups
+Fixed cleanup after a failed update
