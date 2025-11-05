@@ -52,3 +52,4 @@ Fixed cleanup after a failed update
 Improved handling for records that fail validation
 Added a check before updating archived records
 Simplified how invalid entries are filtered
+Improved handling for records missing optional fields
