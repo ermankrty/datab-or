@@ -56,3 +56,4 @@ Improved handling for records missing optional fields
 Removed an outdated validation branch
 Added a check for records with invalid timestamps
 Simplified the retry path for failed operations
+Fixed cleanup when a record is removed early
